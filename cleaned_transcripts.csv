@@ -1,61 +1,61 @@
 transcript_id,speaker,language,timestamp,text,duration_sec,word_count,short_transcript,invalid_duration
-T001,Speaker A,English,2026-09-07 13:55:00,The customer confirmed that the issue has now been resolved. I am following up on the request you submitted yesterday.,51.0,20,False,False
-T002,Speaker E,English,2026-09-04 00:31:00,??? ###,80.0,2,True,False
-T003,Speaker E,English,2026-09-06 03:33:00,I am following up on the request you submitted yesterday.,9999.0,10,False,True
-T004,Speaker D,Hausa,2026-09-06 04:24:00,Za mu aika da sabon bayani bayan mun kammala binciken. Na gode da kiran ku. Ta yaya zan taimaka muku yau?,65.0,21,False,False
-T005,Speaker C,Yoruba,2026-09-02 10:19:00,A ti jiroro oro naa ati pe a o kan si yin lola. Onibara ti fi idi re mule pe isoro naa ti yanju.,0.0,24,False,True
-T006,Speaker A,Igbo,2026-09-04 09:13:00,Onye ahịa kwadoro na edoziwo nsogbu ahụ.,179.0,7,True,False
-T007,Speaker D,English,2026-09-07 15:44:00,We discussed the next steps and agreed to send an update tomorrow. Please provide your reference number so I can check the record.,45.0,23,False,False
-T008,Speaker E,Yoruba,2026-09-01 21:30:00,Onibara ti fi idi re mule pe isoro naa ti yanju.,42.0,11,False,False
-T009,Speaker C,Hausa,2026-09-05 16:47:00,N/A ???,50.0,2,True,False
-T010,Speaker D,Yoruba,2026-09-04 09:54:00,Onibara ti fi idi re mule pe isoro naa ti yanju. Onibara ti fi idi re mule pe isoro naa ti yanju.,78.0,22,False,False
-T011,Speaker E,English,2026-09-03 05:37:00,I am following up on the request you submitted yesterday.,87.0,10,False,False
-T012,Speaker D,Igbo,2026-09-03 20:58:00,xxxyyyzzz,167.0,1,True,False
-T013,Speaker A,Yoruba,2026-09-05 22:32:00,A ti jiroro oro naa ati pe a o kan si yin lola.,105.0,13,False,False
-T014,Speaker A,Yoruba,2026-09-04 22:55:00,A ti jiroro oro naa ati pe a o kan si yin lola.,170.0,13,False,False
-T015,Speaker D,Hausa,2026-09-03 00:00:00,Don Allah a ba ni lambar bayanin ku domin in duba.,142.0,11,False,False
-T016,Speaker B,Yoruba,2026-09-04 08:44:00,A ti jiroro oro naa ati pe a o kan si yin lola.,162.0,13,False,False
-T017,Speaker E,Igbo,,Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,60.0,12,False,False
-T018,Speaker A,Igbo,2026-09-03 04:41:00,Okay.,64.0,1,True,False
-T019,Speaker E,Igbo,2026-09-06 16:48:00,Yes.,,1,True,True
-T020,Speaker E,Yoruba,2026-09-07 11:37:00,,54.0,0,True,False
-T021,Speaker C,Yoruba,2026-09-03 08:15:00,E se fun pipe wa. Bawo ni mo se le ran yin lowo loni? A ti jiroro oro naa ati pe a o kan si yin lola.,141.0,27,False,False
-T022,Speaker E,Yoruba,2026-09-04 18:29:00,A ti jiroro oro naa ati pe a o kan si yin lola.,52.0,13,False,False
-T023,Speaker B,Hausa,2026-09-07 09:49:00,Abokin ciniki ya tabbatar cewa an warware matsalar.,163.0,8,True,False
-T024,Speaker E,English,2026-09-05 12:07:00,The customer confirmed that the issue has now been resolved.,53.0,10,False,False
-T025,Speaker B,Yoruba,2026-09-02 08:23:00,E se fun pipe wa. Bawo ni mo se le ran yin lowo loni? A o fi imudojuiwon ranse si yin leyin ayewo.,45.0,23,False,False
-T026,Speaker A,Igbo,2026-09-06 18:47:00,Anyị ga-eziga mmelite mgbe nyocha ahụ gasịrị.,57.0,7,True,False
-T027,Speaker C,Hausa,2026-09-03 18:50:00,No.,133.0,1,True,False
-T028,Speaker C,Hausa,2026-09-06 08:37:00,Don Allah a ba ni lambar bayanin ku domin in duba.,120.0,11,False,False
-T029,Speaker A,Igbo,2026-09-08 01:38:00,Anyị tụlere okwu ahụ ma kweta izitere gị ozi echi. Onye ahịa kwadoro na edoziwo nsogbu ahụ.,-12.0,17,False,True
-T030,Speaker E,Hausa,2026-09-02 03:24:00,Mun tattauna batun kuma za mu sake tuntubar ku gobe. Na gode da kiran ku. Ta yaya zan taimaka muku yau?,83.0,21,False,False
-T031,Speaker C,English,2026-09-06 21:33:00,,96.0,0,True,False
-T032,Speaker E,Hausa,2026-09-07 22:20:00,Mun tattauna batun kuma za mu sake tuntubar ku gobe.,171.0,10,False,False
-T033,Speaker B,Igbo,2026-09-02 10:45:00,Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,73.0,12,False,False
-T034,Speaker D,English,2026-09-01 23:47:00,The customer confirmed that the issue has now been resolved.,144.0,10,False,False
-T035,Speaker A,English,2026-09-04 04:53:00,Please provide your reference number so I can check the record.,52.0,11,False,False
-T036,Speaker B,Hausa,2026-09-03 11:06:00,Za mu aika da sabon bayani bayan mun kammala binciken.,133.0,10,False,False
-T037,Speaker D,Yoruba,2026-09-06 10:00:00,A ti jiroro oro naa ati pe a o kan si yin lola.,44.0,13,False,False
-T038,Speaker A,English,2026-09-04 01:32:00,N/A ???,48.0,2,True,False
-T039,Speaker D,Hausa,2026-09-02 01:00:00,Don Allah a ba ni lambar bayanin ku domin in duba.,127.0,11,False,False
-T040,Speaker D,Hausa,2026-09-06 13:14:00,Na gode da kiran ku. Ta yaya zan taimaka muku yau?,92.0,11,False,False
-T041,Speaker D,Yoruba,2026-09-03 03:16:00,,149.0,0,True,False
-T042,Speaker C,Hausa,2026-09-07 13:03:00,Mun tattauna batun kuma za mu sake tuntubar ku gobe.,173.0,10,False,False
-T043,Speaker C,English,2026-09-07 10:01:00,Thank you for calling. How may I assist you today? Please provide your reference number so I can check the record.,153.0,21,False,False
-T044,Speaker A,Hausa,2026-09-08 03:29:00,Za mu aika da sabon bayani bayan mun kammala binciken. Mun tattauna batun kuma za mu sake tuntubar ku gobe.,42.0,20,False,False
-T045,Speaker B,English,2026-09-07 23:05:00,Please provide your reference number so I can check the record. We discussed the next steps and agreed to send an update tomorrow.,88.0,23,False,False
-T046,Speaker E,English,2026-09-07 19:20:00,Thank you for calling. How may I assist you today?,174.0,10,False,False
-T047,Speaker C,Yoruba,2026-09-04 02:10:00,A ti jiroro oro naa ati pe a o kan si yin lola.,105.0,13,False,False
-T048,Speaker D,Yoruba,2026-09-06 13:51:00,A ti jiroro oro naa ati pe a o kan si yin lola.,101.0,13,False,False
-T049,Speaker A,Yoruba,2026-09-02 12:18:00,E se fun pipe wa. Bawo ni mo se le ran yin lowo loni?,169.0,14,False,False
-T050,Speaker E,English,2026-09-05 08:18:00,I am following up on the request you submitted yesterday.,58.0,10,False,False
-T051,Speaker B,English,2026-09-04 19:36:00,The customer confirmed that the issue has now been resolved. Please provide your reference number so I can check the record.,164.0,21,False,False
-T052,Speaker E,English,2026-09-02 21:40:00,The customer confirmed that the issue has now been resolved.,51.0,10,False,False
-T053,Speaker A,Yoruba,2026-09-04 11:22:00,Thanks.,64.0,1,True,False
-T054,Speaker E,Yoruba,2026-11-09 14:30:00,A ti jiroro oro naa ati pe a o kan si yin lola.,77.0,13,False,False
-T055,Speaker C,Igbo,2026-09-01 21:02:00,Daalụ maka ịkpọ anyị. Kedu ka m ga-esi nyere gị aka taa? Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,95.0,24,False,False
-T056,Speaker C,English,,I am following up on the request you submitted yesterday.,92.0,10,False,False
-T057,Speaker E,Igbo,2026-09-02 05:32:00,Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,53.0,12,False,False
-T058,Speaker E,Hausa,2026-09-07 15:52:00,Na gode da kiran ku. Ta yaya zan taimaka muku yau?,174.0,11,False,False
-T059,Speaker D,Hausa,2026-09-05 10:42:00,Mun tattauna batun kuma za mu sake tuntubar ku gobe. Abokin ciniki ya tabbatar cewa an warware matsalar.,35.0,18,False,False
-T060,Speaker B,Hausa,2026-09-05 23:58:00,Na gode da kiran ku. Ta yaya zan taimaka muku yau?,168.0,11,False,False
+T001,Speaker A,English,9/7/2026 13:55,The customer confirmed that the issue has now been resolved. I am following up on the request you submitted yesterday.,51,20,FALSE,FALSE
+T002,Speaker E,English,9/4/2026 0:31,??? ###,80,2,TRUE,FALSE
+T003,Speaker E,English,9/6/2026 3:33,I am following up on the request you submitted yesterday.,9999,10,FALSE,TRUE
+T004,Speaker D,Hausa,9/6/2026 4:24,Za mu aika da sabon bayani bayan mun kammala binciken. Na gode da kiran ku. Ta yaya zan taimaka muku yau?,65,21,FALSE,FALSE
+T005,Speaker C,Yoruba,9/2/2026 10:19,A ti jiroro oro naa ati pe a o kan si yin lola. Onibara ti fi idi re mule pe isoro naa ti yanju.,0,24,FALSE,TRUE
+T006,Speaker A,Igbo,9/4/2026 9:13,Onye ahịa kwadoro na edoziwo nsogbu ahụ.,179,7,TRUE,FALSE
+T007,Speaker D,English,9/7/2026 15:44,We discussed the next steps and agreed to send an update tomorrow. Please provide your reference number so I can check the record.,45,23,FALSE,FALSE
+T008,Speaker E,Yoruba,9/1/2026 21:30,Onibara ti fi idi re mule pe isoro naa ti yanju.,42,11,FALSE,FALSE
+T009,Speaker C,Hausa,9/5/2026 16:47,N/A ???,50,2,TRUE,FALSE
+T010,Speaker D,Yoruba,9/4/2026 9:54,Onibara ti fi idi re mule pe isoro naa ti yanju. Onibara ti fi idi re mule pe isoro naa ti yanju.,78,22,FALSE,FALSE
+T011,Speaker E,English,9/3/2026 5:37,I am following up on the request you submitted yesterday.,87,10,FALSE,FALSE
+T012,Speaker D,Igbo,9/3/2026 20:58,xxxyyyzzz,167,1,TRUE,FALSE
+T013,Speaker A,Yoruba,9/5/2026 22:32,A ti jiroro oro naa ati pe a o kan si yin lola.,105,13,FALSE,FALSE
+T014,Speaker A,Yoruba,9/4/2026 22:55,A ti jiroro oro naa ati pe a o kan si yin lola.,170,13,FALSE,FALSE
+T015,Speaker D,Hausa,9/3/2026 0:00,Don Allah a ba ni lambar bayanin ku domin in duba.,142,11,FALSE,FALSE
+T016,Speaker B,Yoruba,9/4/2026 8:44,A ti jiroro oro naa ati pe a o kan si yin lola.,162,13,FALSE,FALSE
+T017,Speaker E,Igbo,,Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,60,12,FALSE,FALSE
+T018,Speaker A,Igbo,9/3/2026 4:41,Okay.,64,1,TRUE,FALSE
+T019,Speaker E,Igbo,9/6/2026 16:48,Yes.,,1,TRUE,TRUE
+T020,Speaker E,Yoruba,9/7/2026 11:37,,54,0,TRUE,FALSE
+T021,Speaker C,Yoruba,9/3/2026 8:15,E se fun pipe wa. Bawo ni mo se le ran yin lowo loni? A ti jiroro oro naa ati pe a o kan si yin lola.,141,27,FALSE,FALSE
+T022,Speaker E,Yoruba,9/4/2026 18:29,A ti jiroro oro naa ati pe a o kan si yin lola.,52,13,FALSE,FALSE
+T023,Speaker B,Hausa,9/7/2026 9:49,Abokin ciniki ya tabbatar cewa an warware matsalar.,163,8,TRUE,FALSE
+T024,Speaker E,English,9/5/2026 12:07,The customer confirmed that the issue has now been resolved.,53,10,FALSE,FALSE
+T025,Speaker B,Yoruba,9/2/2026 8:23,E se fun pipe wa. Bawo ni mo se le ran yin lowo loni? A o fi imudojuiwon ranse si yin leyin ayewo.,45,23,FALSE,FALSE
+T026,Speaker A,Igbo,9/6/2026 18:47,Anyị ga-eziga mmelite mgbe nyocha ahụ gasịrị.,57,7,TRUE,FALSE
+T027,Speaker C,Hausa,9/3/2026 18:50,No.,133,1,TRUE,FALSE
+T028,Speaker C,Hausa,9/6/2026 8:37,Don Allah a ba ni lambar bayanin ku domin in duba.,120,11,FALSE,FALSE
+T029,Speaker A,Igbo,9/8/2026 1:38,Anyị tụlere okwu ahụ ma kweta izitere gị ozi echi. Onye ahịa kwadoro na edoziwo nsogbu ahụ.,-12,17,FALSE,TRUE
+T030,Speaker E,Hausa,9/2/2026 3:24,Mun tattauna batun kuma za mu sake tuntubar ku gobe. Na gode da kiran ku. Ta yaya zan taimaka muku yau?,83,21,FALSE,FALSE
+T031,Speaker C,English,9/6/2026 21:33,,96,0,TRUE,FALSE
+T032,Speaker E,Hausa,9/7/2026 22:20,Mun tattauna batun kuma za mu sake tuntubar ku gobe.,171,10,FALSE,FALSE
+T033,Speaker B,Igbo,9/2/2026 10:45,Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,73,12,FALSE,FALSE
+T034,Speaker D,English,9/1/2026 23:47,The customer confirmed that the issue has now been resolved.,144,10,FALSE,FALSE
+T035,Speaker A,English,9/4/2026 4:53,Please provide your reference number so I can check the record.,52,11,FALSE,FALSE
+T036,Speaker B,Hausa,9/3/2026 11:06,Za mu aika da sabon bayani bayan mun kammala binciken.,133,10,FALSE,FALSE
+T037,Speaker D,Yoruba,9/6/2026 10:00,A ti jiroro oro naa ati pe a o kan si yin lola.,44,13,FALSE,FALSE
+T038,Speaker A,English,9/4/2026 1:32,N/A ???,48,2,TRUE,FALSE
+T039,Speaker D,Hausa,9/2/2026 1:00,Don Allah a ba ni lambar bayanin ku domin in duba.,127,11,FALSE,FALSE
+T040,Speaker D,Hausa,9/6/2026 13:14,Na gode da kiran ku. Ta yaya zan taimaka muku yau?,92,11,FALSE,FALSE
+T041,Speaker D,Yoruba,9/3/2026 3:16,,149,0,TRUE,FALSE
+T042,Speaker C,Hausa,9/7/2026 13:03,Mun tattauna batun kuma za mu sake tuntubar ku gobe.,173,10,FALSE,FALSE
+T043,Speaker C,English,9/7/2026 10:01,Thank you for calling. How may I assist you today? Please provide your reference number so I can check the record.,153,21,FALSE,FALSE
+T044,Speaker A,Hausa,9/8/2026 3:29,Za mu aika da sabon bayani bayan mun kammala binciken. Mun tattauna batun kuma za mu sake tuntubar ku gobe.,42,20,FALSE,FALSE
+T045,Speaker B,English,9/7/2026 23:05,Please provide your reference number so I can check the record. We discussed the next steps and agreed to send an update tomorrow.,88,23,FALSE,FALSE
+T046,Speaker E,English,9/7/2026 19:20,Thank you for calling. How may I assist you today?,174,10,FALSE,FALSE
+T047,Speaker C,Yoruba,9/4/2026 2:10,A ti jiroro oro naa ati pe a o kan si yin lola.,105,13,FALSE,FALSE
+T048,Speaker D,Yoruba,9/6/2026 13:51,A ti jiroro oro naa ati pe a o kan si yin lola.,101,13,FALSE,FALSE
+T049,Speaker A,Yoruba,9/2/2026 12:18,E se fun pipe wa. Bawo ni mo se le ran yin lowo loni?,169,14,FALSE,FALSE
+T050,Speaker E,English,9/5/2026 8:18,I am following up on the request you submitted yesterday.,58,10,FALSE,FALSE
+T051,Speaker B,English,9/4/2026 19:36,The customer confirmed that the issue has now been resolved. Please provide your reference number so I can check the record.,164,21,FALSE,FALSE
+T052,Speaker E,English,9/2/2026 21:40,The customer confirmed that the issue has now been resolved.,51,10,FALSE,FALSE
+T053,Speaker A,Yoruba,9/4/2026 11:22,Thanks.,64,1,TRUE,FALSE
+T054,Speaker E,Yoruba,11/9/2026 14:30,A ti jiroro oro naa ati pe a o kan si yin lola.,77,13,FALSE,FALSE
+T055,Speaker C,Igbo,9/1/2026 21:02,Daalụ maka ịkpọ anyị. Kedu ka m ga-esi nyere gị aka taa? Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,95,24,FALSE,FALSE
+T056,Speaker C,English,,I am following up on the request you submitted yesterday.,92,10,FALSE,FALSE
+T057,Speaker E,Igbo,9/2/2026 5:32,Biko nye m nọmba ntụaka gị ka m nwee ike lelee ya.,53,12,FALSE,FALSE
+T058,Speaker E,Hausa,9/7/2026 15:52,Na gode da kiran ku. Ta yaya zan taimaka muku yau?,174,11,FALSE,FALSE
+T059,Speaker D,Hausa,9/5/2026 10:42,Mun tattauna batun kuma za mu sake tuntubar ku gobe. Abokin ciniki ya tabbatar cewa an warware matsalar.,35,18,FALSE,FALSE
+T060,Speaker B,Hausa,9/5/2026 23:58,Na gode da kiran ku. Ta yaya zan taimaka muku yau?,168,11,FALSE,FALSE
